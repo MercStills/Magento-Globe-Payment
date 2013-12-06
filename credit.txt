@@ -1,0 +1,3 @@
+Built using = https://github.com/jalder/Magento-Bitcoin-Payment-Module
+
+credit goes to jalder for developing this. We simply changed ports and names.
